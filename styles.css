@@ -817,7 +817,7 @@ nav {
 /* Footer Styles */
 
 #footer {
-    padding: 0rem;
+    padding: 1rem;
     background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));; /* Footer background color */
     color: #fff; /* Footer text color */
     text-align: center;
@@ -842,8 +842,8 @@ nav {
 }
 
 .social-icon img {
-    width: 30px; /* Adjust size as needed */
-    height: 30px; /* Adjust size as needed */
+    width: 50px; /* Adjust size as needed */
+    height: 50px; /* Adjust size as needed */
     transition: opacity 0.3s ease;
 }
 
